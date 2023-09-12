@@ -18,7 +18,7 @@ authenticated pass. The Pass will be authorized by the hospital
 
 # Techology Stack
 
-<img align="left" alt="Java" width="40px" src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fdev.java%2Fassets%2Fimages%2Fjava-logo-vert-blk.png&tbnid=zQLImnnH70CSHM&vet=12ahUKEwjj9JfsgaWBAxWunmMGHUxaJ28QMygBegQIARB2..i&imgrefurl=https%3A%2F%2Fdev.java%2F&docid=ToB8tIqOU4fqPM&w=500&h=500&q=java%20image&ved=2ahUKEwjj9JfsgaWBAxWunmMGHUxaJ28QMygBegQIARB2" />
+<img align="left" alt="Java" width="40px" src=" C:\Users\DELL\OneDrive\Desktop " />
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
