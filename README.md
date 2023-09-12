@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mubin19/Covid-Pass-System/">
-   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2F6G9sR34jBTrj-9yzHujVLW0E3tof4bj6pOTaTpBnCQW2RUBq9dpwdoTXqr1OZx0HUVk&tbnid=Zf0Wxeu5PbqkOM&vet=10CAsQMyhpahcKEwjA2ZuN_6SBAxUAAAAAHQAAAAAQAw..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.zurarev.snackbccdb8523f3941c4aa06aff238ecf606%26hl%3Den_IN%26gl%3DUS&docid=pmskHgJbRbHEnM&w=512&h=512&itg=1&q=covid%20pass&ved=0CAsQMyhpahcKEwjA2ZuN_6SBAxUAAAAAHQAAAAAQAw"/>
+   <img src="C:\Users\DELL\OneDrive\Desktop"/>
   </a>
 
   <h1 align="center"> Covid Pass System </h1>
@@ -44,7 +44,7 @@ authenticated pass. The Pass will be authorized by the hospital
 
 1. Clone the repo
    ```sh
-     github.com/Mubin19/Covid-Pass-System   
+   https://github.com/Mubin19/Movie-Recommenation-System
    ```
 2. How to run
    ```sh
