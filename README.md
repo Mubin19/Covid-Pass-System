@@ -44,7 +44,7 @@ authenticated pass. The Pass will be authorized by the hospital
 
 1. Clone the repo
    ```sh
-   https://github.com/Mubin19/Movie-Recommenation-System
+   https://github.com/Mubin19/Covid-Pass-System
    ```
 2. How to run
    ```sh
