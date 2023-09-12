@@ -12,17 +12,17 @@
 
 # Introduction
 
-Movie Recommendation System is a web application,which is used to filter and predict only those movies that a
-corresponding user is most likely want to watch. ML algorithms are used for these recommendation system. User
-can watch movies according to Subscription plans by making payment through Razor pay.
-
+Covid pass system is a web application, which provide a pass for fully vaccinated peoples to travel in public places
+(Malls, Theatres, etc). The User needs to register and apply for the pass To get the pass. A person will get the
+authenticated pass. The Pass will be authorized by the hospital
 
 # Techology Stack
 
-<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="Java" width="40px" src="data:image/png;base64,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" />
+
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="RazorPay" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Razorpay_logo.webp" />
+
 
 
 
@@ -33,7 +33,7 @@ can watch movies according to Subscription plans by making payment through Razor
 
 # Prerequisites
 
-* Django
+* JDBC
   ```sh
   pip install django
   ```
